@@ -4,9 +4,9 @@ This repository contains selected coursework and portfolio artifacts from SNHU's
 
 ## Portfolio Artifacts
 
-- [Project One: Runtime and Memory Analysis](Project%20One%20Dickinson.docx) — Pseudocode and analysis comparing vector, hash table, and binary search tree approaches to storing and working with course information.
-- [Project Two: Course Planner](Project-Two/ProjectTwo.cpp) — A C++ course planner that loads course data into a binary search tree, prints courses in alphanumeric order, and searches for a course.
-- [Project Two Input Data](Project-Two/CS-300-ABCU_Advising_Program_Input.csv) — Sample course data used by the program.
+- [Project One: Runtime and Memory Analysis](Project-One/Project-One-Dickinson.docx) — Pseudocode and analysis comparing vector, hash table, and binary search tree approaches to storing and working with course information.
+- [Project Two: Course Planner](ProjectTwo.cpp) — A C++ course planner that loads course data into a binary search tree, prints courses in alphanumeric order, and searches for a course.
+- [Project Two Input Data](CS%20300%20ABCU_Advising_Program_Input.csv) — Sample course data used by the program.
 
 ## Reflection
 
